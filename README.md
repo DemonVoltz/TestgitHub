@@ -1,6 +1,6 @@
 # TestgitHub
 Untest
-More then a test hehe<<<<<<< HEAD
+<<<<<<< HEAD
 More then a test hehe
 =======
 3tiowehgkjdfa,mnad
